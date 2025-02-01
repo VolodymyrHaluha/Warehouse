@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galug\\source\\repos\\Warehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|C:\\Users\\galug\\source\\repos\\Warehouse\\warehouse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|C:\\Users\\galug\\source\\repos\\Warehouse\\warehouse\\add_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\add_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|C:\\Users\\galug\\source\\repos\\Warehouse\\warehouse\\add_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\add_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|C:\\Users\\galug\\source\\repos\\Warehouse\\warehouse\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|C:\\Users\\galug\\source\\repos\\Warehouse\\warehouse\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|c:\\users\\galug\\source\\repos\\warehouse\\warehouse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|C:\\Users\\galug\\source\\repos\\Warehouse\\warehouse\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|C:\\Users\\galug\\source\\repos\\Warehouse\\warehouse\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|C:\\Users\\galug\\source\\repos\\Warehouse\\warehouse\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BF1F7B-08B8-403C-BFE4-E4667C12F2E3}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "log_in.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\log_in.cs",
+              "RelativeDocumentMoniker": "Warehouse\\log_in.cs",
+              "ToolTip": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\log_in.cs [Design]",
+              "RelativeToolTip": "Warehouse\\log_in.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:14:06.997Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sign_up.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\sign_up.cs",
+              "RelativeDocumentMoniker": "Warehouse\\sign_up.cs",
+              "ToolTip": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\sign_up.cs [Design]",
+              "RelativeToolTip": "Warehouse\\sign_up.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:14:24.454Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\Form1.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Form1.cs",
+              "ToolTip": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\Form1.cs [Design]",
+              "RelativeToolTip": "Warehouse\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:16:52.7Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\Add_Form.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Add_Form.cs",
+              "ToolTip": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\Add_Form.cs [Design]",
+              "RelativeToolTip": "Warehouse\\Add_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:14:11.811Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\DataBase.cs",
+              "RelativeDocumentMoniker": "Warehouse\\DataBase.cs",
+              "ToolTip": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\DataBase.cs",
+              "RelativeToolTip": "Warehouse\\DataBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:14:51.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log_in.cs",
+              "DocumentMoniker": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\log_in.cs",
+              "RelativeDocumentMoniker": "Warehouse\\log_in.cs",
+              "ToolTip": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\log_in.cs",
+              "RelativeToolTip": "Warehouse\\log_in.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:14:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sign_up.cs",
+              "DocumentMoniker": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\sign_up.cs",
+              "RelativeDocumentMoniker": "Warehouse\\sign_up.cs",
+              "ToolTip": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\sign_up.cs",
+              "RelativeToolTip": "Warehouse\\sign_up.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:14:41.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add_Form.cs",
+              "DocumentMoniker": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\Add_Form.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Add_Form.cs",
+              "ToolTip": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\Add_Form.cs",
+              "RelativeToolTip": "Warehouse\\Add_Form.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:21:34.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\Form1.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Form1.cs",
+              "ToolTip": "C:\\Users\\galug\\source\\repos\\Warehouse\\Warehouse\\Form1.cs",
+              "RelativeToolTip": "Warehouse\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:25:46.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

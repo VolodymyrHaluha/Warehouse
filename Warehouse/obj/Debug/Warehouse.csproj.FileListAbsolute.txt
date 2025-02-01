@@ -1,0 +1,13 @@
+C:\Users\galug\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.AssemblyReference.cache
+C:\Users\galug\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.Form1.resources
+C:\Users\galug\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.log_in.resources
+C:\Users\galug\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.sign_up.resources
+C:\Users\galug\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Users\galug\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\galug\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\galug\source\repos\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\galug\source\repos\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\galug\source\repos\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\galug\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\galug\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\galug\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.Add_Form.resources
